@@ -1,8 +1,6 @@
 # Aula sobre Tabelas
 Um projeto inicial do módulo de HTML Básico
 
-<img src="" alt="imagem animada do projeto aula tabela">
-
 ## Tecnologia utilizada
 - HTML
 ### Utilidade
